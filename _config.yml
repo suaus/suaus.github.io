@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "SUA"
+  avatar           : # path of avatar image, e.g. "https://t1.daumcdn.net/cfile/tistory/9934DA4A5B8E56142D"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "KOREA"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

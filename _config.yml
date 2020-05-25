@@ -96,12 +96,12 @@ author:
   name             : "SUA"
   avatar           : # path of avatar image, e.g. "https://pbs.twimg.com/profile_images/798052663799623681/PwNQQmqN_400x400.jpg"
   bio              : "I am an **amazing** person."
-  location         : "KOREA"
+  location         : "KOREA,SEOUL"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:your.joygajoy22@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

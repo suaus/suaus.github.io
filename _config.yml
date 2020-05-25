@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "SUA"
-  avatar           : # path of avatar image, e.g. "https://pbs.twimg.com/profile_images/798052663799623681/PwNQQmqN_400x400.jpg"
+  avatar           : "https://pbs.twimg.com/profile_images/798052663799623681/PwNQQmqN_400x400.jpg"
   bio              : "I am an **amazing** person."
   location         : "KOREA,SEOUL"
   email            : 
